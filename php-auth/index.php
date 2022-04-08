@@ -29,7 +29,7 @@ session_start();
           
         </label>
        <div class="btn_reg"> 
-           <button type="submit" method="post">ВОЙТИ</button>
+           <button type="submit" method="post">ВАЙТИ</button>
            <a href="registr.php" class="reg">РЕГИСТРАЦИЯ</a>
         </div> 
         <?php
